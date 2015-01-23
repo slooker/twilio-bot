@@ -13,4 +13,4 @@ Next install the Hapi module that runs the server
 
 Start the server like so:
 
-* iojs file.js
+* iojs index.js
